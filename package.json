@@ -1,6 +1,6 @@
 {
   "name": "insert-reset-styles",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple module to insert a css-reset script using insert-styles and to-css",
   "main": "index.js",
   "dependencies": {
