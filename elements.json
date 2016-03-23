@@ -1,0 +1,22 @@
+{
+  "block": [
+    "article",
+    "aside",
+    "details",
+    "figcaption",
+    "figure",
+    "footer",
+    "header",
+    "main",
+    "menu",
+    "nav",
+    "section",
+    "summary"
+  ],
+  "inline": [
+    "audio",
+    "canvas",
+    "progress",
+    "video"
+  ]
+}
