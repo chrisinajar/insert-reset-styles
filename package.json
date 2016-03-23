@@ -1,0 +1,24 @@
+{
+  "name": "insert-reset-styles",
+  "version": "0.0.0",
+  "description": "Simple module to insert a css-reset script using insert-styles and to-css",
+  "main": "index.js",
+  "dependencies": {
+    "insert-styles": "^1.0.0",
+    "to-css": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisinajar/insert-reset-styles.git"
+  },
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisinajar/insert-reset-styles/issues"
+  },
+  "homepage": "https://github.com/chrisinajar/insert-reset-styles#readme"
+}
